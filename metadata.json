@@ -1,0 +1,6 @@
+{
+  "name": "Hakimi Image",
+  "description": "A elegant local intelligent photo organizer and smart album classifier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

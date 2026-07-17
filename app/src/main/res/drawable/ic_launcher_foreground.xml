@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Camera Body Silhouette -->
+    <path
+        android:fillColor="#FFA012"
+        android:pathData="M 28,26 L 80,26 C 85.5,26 90,30.5 90,36 L 90,72 C 90,77.5 85.5,82 80,82 L 28,82 C 22.5,82 18,77.5 18,72 L 18,36 C 18,30.5 22.5,26 28,26 Z" />
+    
+    <!-- Outer Lens Rim (Cutout) -->
+    <path
+        android:fillColor="#141619"
+        android:pathData="M 54,34 C 65,34 74,43 74,54 C 74,65 65,74 54,74 C 43,74 34,65 34,54 C 34,43 43,34 54,34 Z" />
+        
+    <!-- Inner Lens Reflection -->
+    <path
+        android:fillColor="#FFA012"
+        android:pathData="M 54,42 C 60.6,42 66,47.4 66,54 C 66,60.6 60.6,66 54,66 C 47.4,66 42,60.6 42,54 C 42,47.4 47.4,42 54,42 Z" />
+
+    <!-- Center Aperture -->
+    <path
+        android:fillColor="#141619"
+        android:pathData="M 54,48 C 57.3,48 60,50.7 60,54 C 60,57.3 57.3,60 54,60 C 50.7,60 48,57.3 48,54 C 48,50.7 50.7,48 54,48 Z" />
+
+    <!-- Camera Lens Indicator Flash -->
+    <path
+        android:fillColor="#141619"
+        android:pathData="M 78,32 C 79.7,32 81,33.3 81,35 C 81,36.7 79.7,38 78,38 C 76.3,38 75,36.7 75,35 C 75,33.3 76.3,32 78,32 Z" />
+</vector>
